@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305171563248",
+    "project_id": "kratos-bw",
+    "storage_bucket": "kratos-bw.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305171563248:android:81649d3e2897672427b835",
+        "android_client_info": {
+          "package_name": "com.projeto.fitness.fit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqBwoejquPWDysrdGJFJ_Mq1GXRdAj1uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
